@@ -1,0 +1,8 @@
+/.idea/
+*/target/
+*/.mvn
+*/mvnw
+*/*.cmd
+*/*.iml
+/*.iml
+/rabbitmq-spring/.gitignore
